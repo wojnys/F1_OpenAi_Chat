@@ -4,9 +4,10 @@
 
 - ### I have built a chat app using Next.js, LangChain, DataStax, and OpenAI API.  
 - ### I scrape data, process it by converting text into embeddings (vectors), and store it in the DataStax vector database.  
-- ### You can chat with AI and request the latest news.  
+- ### You can chat with AI and request the latest news.
+  
+![Screenshot 2025-02-13 at 9 13 07](https://github.com/user-attachments/assets/10518d8f-0ccd-432c-b0a3-3bc940fc528e)
 
-![Uploading image.png…]()
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
