@@ -6,6 +6,7 @@
 - ### I scrape data, process it by converting text into embeddings (vectors), and store it in the DataStax vector database.  
 - ### You can chat with AI and request the latest news.  
 
+![Uploading image.png…]()
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
